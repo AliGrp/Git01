@@ -8,6 +8,7 @@ public class Class01 {
 
 
         System.out.println("Deneme");
+        //deneme
 
         System.out.println("sibel");
 
